@@ -1,0 +1,569 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\utils\\imageprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\utils\\imageprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\services\\reportingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\services\\reportingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\models\\saleagreement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\models\\saleagreement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\models\\propertylisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\models\\propertylisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\models\\financialtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\models\\financialtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\forms\\userlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\forms\\userlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\forms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\forms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\forms\\saleagreementlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\forms\\saleagreementlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\forms\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\forms\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\forms\\rentalagreementlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\forms\\rentalagreementlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\forms\\propertylistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\forms\\propertylistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\forms\\financialtransactionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\forms\\financialtransactionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\forms\\employeelistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\forms\\employeelistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\utils\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\utils\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\models\\rentalagreement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\models\\rentalagreement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\models\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\models\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|c:\\users\\user\\desktop\\setup\\realestateapp_yeni\\realestateapp_yeni\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6612E07A-8E40-4BD7-B9A8-03F0B4DB823D}|RealEstateApp_Yeni\\RealEstateApp_Yeni.csproj|solutionrelative:realestateapp_yeni\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportingService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Services\\ReportingService.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Services\\ReportingService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Services\\ReportingService.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Services\\ReportingService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAIwI8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:41:35.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropertyListing.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\PropertyListing.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Models\\PropertyListing.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\PropertyListing.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Models\\PropertyListing.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAtwJ8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:38:22.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Services\\AuthService.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:42:49.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FinancialTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\FinancialTransaction.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Models\\FinancialTransaction.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\FinancialTransaction.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Models\\FinancialTransaction.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwK4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:38:59.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Models\\Property.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\Property.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Models\\Property.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAD4v8YAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:37:42.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleAgreement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\SaleAgreement.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Models\\SaleAgreement.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\SaleAgreement.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Models\\SaleAgreement.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAtwKgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:39:22.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\User.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Models\\User.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAEwGUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:39:39.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Services\\ImageService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Services\\ImageService.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Services\\ImageService.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAOgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:41:08.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageProcessing.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Utils\\ImageProcessing.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Utils\\ImageProcessing.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Utils\\ImageProcessing.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Utils\\ImageProcessing.cs",
+              "ViewState": "AgIAAI0BAAAAAAAAAAAIwKQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:40:46.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\Employee.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Models\\Employee.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAA5wF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:38:35.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserListForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\UserListForm.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Forms\\UserListForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\UserListForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Forms\\UserListForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:08:40.855Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SettingsForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Forms\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\SettingsForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Forms\\SettingsForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:05:24.07Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SaleAgreementListForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\SaleAgreementListForm.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Forms\\SaleAgreementListForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\SaleAgreementListForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Forms\\SaleAgreementListForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:05:16.692Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:40:18.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\MainForm.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAlwKMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:53:28.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportsForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Forms\\ReportsForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\ReportsForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Forms\\ReportsForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:05:10.176Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RentalAgreementListForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\RentalAgreementListForm.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Forms\\RentalAgreementListForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\RentalAgreementListForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Forms\\RentalAgreementListForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:05:04.034Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PropertyListForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\PropertyListForm.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Forms\\PropertyListForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\PropertyListForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Forms\\PropertyListForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:04:58.251Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FinancialTransactionsForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\FinancialTransactionsForm.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Forms\\FinancialTransactionsForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\FinancialTransactionsForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Forms\\FinancialTransactionsForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:03:02.255Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeListForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\EmployeeListForm.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Forms\\EmployeeListForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\EmployeeListForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Forms\\EmployeeListForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:02:52.999Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DashboardForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Forms\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\DashboardForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Forms\\DashboardForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:02:31.544Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Forms\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:53:26.322Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\App.config",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\App.config",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\App.config",
+              "RelativeToolTip": "RealEstateApp_Yeni\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-25T20:56:12.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Forms\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\MainForm.Designer.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Forms\\MainForm.Designer.cs",
+              "ViewState": "AgIAAMIBAAAAAAAAAAAIwNYBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:53:34.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAIwMgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:44:17.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAD4v0QAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:44:06.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Forms\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Forms\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:44:02.998Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Utils\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Utils\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Utils\\PasswordHasher.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Utils\\PasswordHasher.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:43:05.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Services\\PropertyService.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Services\\PropertyService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Services\\PropertyService.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Services\\PropertyService.cs",
+              "ViewState": "AgIAAK4BAAAAAAAAAAAIwNkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:41:22.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RentalAgreement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\RentalAgreement.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Models\\RentalAgreement.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\RentalAgreement.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Models\\RentalAgreement.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAIwKwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:39:10.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PropertyImage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\PropertyImage.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Models\\PropertyImage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Models\\PropertyImage.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Models\\PropertyImage.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:38:05.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Program.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Program.cs",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:35:46.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Form1.cs",
+              "RelativeDocumentMoniker": "RealEstateApp_Yeni\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\RealEstateApp_Yeni\\RealEstateApp_Yeni\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RealEstateApp_Yeni\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:34:13.883Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
